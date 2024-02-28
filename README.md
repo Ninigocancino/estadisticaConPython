@@ -10,12 +10,12 @@
 
  El repositorio sigue la sigueinte estructura:
 
- <details>
+ <Fundamentos_estadidtiscos>
  <sumary>Fundamentos_estadisticos</sumary>
 
  *mediana.ipynb
  *promedio.ipynb
- </deatils>
+ </Fundamentos_estadisticos>
 
  - estadisticaConPython
     - fendamentos_estadisticos
