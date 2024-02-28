@@ -2,11 +2,20 @@
 
 ### Aprendamos los conceptos necesarios para ser cientifico de datos
 
- Este es un plan de aprendizaje para adquirir lso conocimiento necesarios para inciar como cientifico de datos; el repositorio  incluye tanto información teórica como ejercicios, ejemplos, soluciones y proyectos, esto con la finalidad de servir de guía para aquellas personas que buscan un primer acercamiento a la parte estadística de la ciencia de datos con Python.
+ Este es un plan de aprendizaje para adquirir los conocimiento básicos para inciar como cientifico de datos; el repositorio  incluye tanto información teórica como ejercicios, ejemplos, soluciones y proyectos, esto con la finalidad de servir de guía para aquellas personas que buscan un primer acercamiento a la parte estadística de la ciencia de datos con Python y en especial para aquellas personas que no vienen de perfiles profesionales relacionadas con el software o las ciencias exactas, como prodría ser arquitectura, derecho, psicología, etc. e incluso personas que no hayan contado con una formación universitaria.
+
+ Este repositorio busca que los temas en él sea lo más explicativo posible para personas con poco conocimiento en el áre del software y las matemáticas por lo que es posible que algunas partes puedan parecer redundantes. 
 
  ## Acerca del repositorio
 
  El repositorio sigue la sigueinte estructura:
+
+ <details>
+ <sumary>Fundamentos_estadisticos</sumary>
+
+ *mediana.ipynb
+ *promedio.ipynb
+ </deatils>
 
  - estadisticaConPython
     - fendamentos_estadisticos
